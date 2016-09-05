@@ -6,4 +6,6 @@ if name=='konalo':            # note use of ==
     print('good ,your are right...')
 else:
     print('no ,you are wrong.')
-    print('stupid you are')
+
+ssssssssssssssssssssssssssss
+print('stupid you are')
